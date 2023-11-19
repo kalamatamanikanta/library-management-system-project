@@ -1,13 +1,7 @@
 # library-management-system-project
-- JavaFX
-- JDK Version : 10
-- Oracle 11g Express Edition
-
-![Splash Screen](screenshots/SplashScreen.PNG)
-![Login Form](screenshots/loginscreen.PNG)
-![Dashboard Form](screenshots/dashboard.PNG)
-![Student Form](screenshots/student.PNG)
-![Book Form](screenshots/book.PNG)
-![Issue Book Form](screenshots/Issue.PNG)
-![Return Book Form](screenshots/return.PNG)
-![Setting](screenshots/setting.PNG)
+This project demonstrates the basic functionalities such as 
+ -adding books
+ -displaying all the books 
+ -displaying book details
+ -deleting books 
+ -borrowing books.
